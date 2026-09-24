@@ -6,9 +6,9 @@
     "Automatic Firebase Cloud Synchronization",
     "Realtime multi-device database sync",
     "Account & Cloud Sync center",
-    "Smart notifications and reminders",
-    "Global FCM announcements",
-    "Feedback and voluntary UPI support"
+    "Smart notifications, budget alerts & quiet hours",
+    "Global FCM announcements & What's New release notes",
+    "Voluntary developer support via UPI"
   ],
   "apkUrl": "https://github.com/prajapat875/CampusMoney-Releases/releases/download/v1.5.0/CampusMoney-release.apk",
   "sha256": "43B5BE9CF3BE16305B100B1832E64B93BB9EE21A118C19D0D06C669D7263EBFD",
