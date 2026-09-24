@@ -1,0 +1,17 @@
+{
+  "versionCode": 2,
+  "versionName": "1.5.0",
+  "title": "CampusMoney 1.5.0",
+  "releaseNotes": [
+    "Automatic Firebase Cloud Synchronization",
+    "Realtime multi-device database sync",
+    "Account & Cloud Sync center",
+    "Smart notifications and reminders",
+    "Global FCM announcements",
+    "Feedback and voluntary UPI support"
+  ],
+  "apkUrl": "",
+  "sha256": "",
+  "minimumSupportedVersionCode": 1,
+  "forceUpdate": false
+}
