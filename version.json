@@ -10,8 +10,8 @@
     "Global FCM announcements",
     "Feedback and voluntary UPI support"
   ],
-  "apkUrl": "",
-  "sha256": "",
+  "apkUrl": "https://github.com/prajapat875/CampusMoney-Releases/releases/download/v1.5.0/CampusMoney-release.apk",
+  "sha256": "43B5BE9CF3BE16305B100B1832E64B93BB9EE21A118C19D0D06C669D7263EBFD",
   "minimumSupportedVersionCode": 1,
   "forceUpdate": false
 }
