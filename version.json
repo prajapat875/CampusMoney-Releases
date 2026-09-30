@@ -1,17 +1,19 @@
 {
-  "versionCode": 2,
-  "versionName": "1.5.0",
-  "title": "CampusMoney 1.5.0",
+  "versionCode": 4,
+  "versionName": "1.6.0",
+  "title": "CampusMoney 1.6.0",
   "releaseNotes": [
-    "Automatic Firebase Cloud Synchronization",
-    "Realtime multi-device database sync",
-    "Account & Cloud Sync center",
-    "Smart notifications, budget alerts & quiet hours",
-    "Global FCM announcements & What's New release notes",
-    "Voluntary developer support via UPI"
+    "Refined Home, Passbook and Analytics UI",
+    "Improved Add Transaction experience",
+    "New Campus Night premium theme",
+    "Reorganized More and Settings sections",
+    "Improved notifications and reminders",
+    "New CampusMoney branding and app icon",
+    "Improved About & Updates experience",
+    "Minor stability and usability improvements"
   ],
-  "apkUrl": "https://github.com/prajapat875/CampusMoney-Releases/releases/download/v1.5.0/CampusMoney-release.apk",
-  "sha256": "43B5BE9CF3BE16305B100B1832E64B93BB9EE21A118C19D0D06C669D7263EBFD",
+  "apkUrl": "https://github.com/prajapat875/CampusMoney-Releases/releases/download/v1.6.0/CampusMoney-release.apk",
+  "sha256": "7BA3F7CCFAEC3BD7CF60C8BF05B8F64367C25210B3B7B9820D5E803E09222F6",
   "minimumSupportedVersionCode": 1,
   "forceUpdate": false
 }
